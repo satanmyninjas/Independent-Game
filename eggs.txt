@@ -5,7 +5,7 @@ if name == "Lunaarii" or "satanmyninjas":
   "???: ...in some strange way, it sounds...familiar..."
   "???: Ah, nevermind... just forget I said anything...")
 
-elif name != "Lunaarii" or "satanmyninjas":
+else:
     pass
 
 ========================================================================================================================
